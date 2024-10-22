@@ -1,5 +1,5 @@
 # Building-Time-series-Foundation-Model
-This is a pre-trained Time-series Foundation Model for building load/energy forecasting. The model can conduct zero-shot or few-shot forecasting on diverse building energy data. The steps to run the model for a target building are shown below.
+This is a Time-series Foundation Model for building load/energy forecasting. The model can conduct zero-shot or few-shot forecasting on diverse building energy data. The steps to run the model for a target building are shown below.
 
 ## Step 1: prepare data file
 - The target building energy data should be stored in a `{target_building}.csv` file with two columns:
