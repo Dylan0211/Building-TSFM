@@ -1,6 +1,8 @@
 # Building-Time-series-Foundation-Model
 This is a Time-series Foundation Model for building load/energy forecasting. The model can conduct zero-shot or few-shot forecasting on diverse building energy data. 
 
+![building_tsfm_overview](https://github.com/user-attachments/assets/57448f67-01eb-41a9-a171-9406c2cedcf1)
+
 ## Download this repository
 Either clone the repository using the following command or directly download the zip file [`Building_TSFM.zip`](https://github.com/Dylan0211/Building-Time-series-Foundation-Model/blob/main/Building_TSFM.zip).
 ```bash
