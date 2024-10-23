@@ -6,7 +6,7 @@ This is a Time-series Foundation Model for building load/energy forecasting. The
 ## Download this repository
 Either clone the repository using the following command or directly download the zip file [`Building_TSFM.zip`](https://github.com/Dylan0211/Building-Time-series-Foundation-Model/blob/main/Building_TSFM.zip).
 ```bash
-git clone https://github.com/Dylan0211/Building-Time-series-Foundation-Model.git 
+git clone https://github.com/Dylan0211/Building-TSFM.git
 ```
 ## Evaluate the model
 
