@@ -22,7 +22,7 @@ pip install -r requirements.txt
 - The target building energy data should be stored in a `{target_building}.csv` file with two columns:
     - **Target column** is the column that will be forecasted (e.g., energy consumption).
     - **Timestamp column** is the column that contains the timestamp of the time-series.
-- The `{target_building}.csv` file should be put in `dataset/{dataset_name}/{target_building}.csv`.
+- The `{target_building}.csv` file should be put under `dataset/{dataset_name}/`.
     - An example is the `Fox_office_Joy.csv` file under [`dataset/Genome/`](https://github.com/Dylan0211/Building-Time-series-Foundation-Model/tree/main/dataset/Genome).
 
 ### Step 2: config data loader
