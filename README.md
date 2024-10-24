@@ -4,7 +4,7 @@
 
 This is a Time-series Foundation Model for building load/energy forecasting. The model can conduct zero-shot or few-shot forecasting on diverse building energy data. 
 
-![building_tsfm_overview](https://github.com/user-attachments/assets/57448f67-01eb-41a9-a171-9406c2cedcf1)
+![tinhau_overview](https://github.com/Dylan0211/TinHau-forecasting/blob/main/tinhau_overview.png)
 
 ## Download this repository
 Either clone the repository using the following command or directly download the zip file [`TinHau-forecasting.zip`](https://drive.google.com/file/d/1V5RYGlZlhYbnki-XROU-zC3Y8yDCh2wh/view?usp=sharing).
