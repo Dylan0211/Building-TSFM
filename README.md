@@ -9,7 +9,7 @@ This is a Time-series Foundation Model for building load/energy forecasting. The
 ## Download this repository
 Either clone the repository using the following command or directly download the zip file [`TinHau-forecasting.zip`](https://drive.google.com/file/d/1V5RYGlZlhYbnki-XROU-zC3Y8yDCh2wh/view?usp=sharing).
 ```bash
-git clone https://github.com/Dylan0211/Building-TSFM.git
+git clone https://github.com/Dylan0211/TinHau-forecasting.git
 ```
 The supported python version is 3.8. Use the following command to install required packages.
 ```bash
