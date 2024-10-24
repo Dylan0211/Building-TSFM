@@ -8,6 +8,11 @@ Either clone the repository using the following command or directly download the
 ```bash
 git clone https://github.com/Dylan0211/Building-TSFM.git
 ```
+The supported python version is 3.8. Use the following command to install required packages.
+```bash
+pip install -r requirements.txt
+```
+
 ## Evaluate the model
 
 ### Step 1: prepare data file
