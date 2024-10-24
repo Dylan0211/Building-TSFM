@@ -25,13 +25,15 @@ pip install -r requirements.txt
 - The `{target_building}.csv` file should be put under `dataset/{dataset_name}/`.
     - An example is the `Fox_office_Joy.csv` file under [`dataset/Genome/`](https://github.com/Dylan0211/Building-Time-series-Foundation-Model/tree/main/dataset/Genome).
 
-|  | time | power |
-| :-----: | :----: | :----: |
-| 1 | 2016-12-29 12:00:00 | 205.47 |
-| 2 | 2016-12-29 13:00:00 | 206.74 |
-| 3 | 2016-12-29 14:00:00 | 206.77 |
-| 4 | 2016-12-29 15:00:00 | 205.77 |
-| 5 | 2016-12-29 16:00:00 | 201.93 |
+
+        |  | time | power |
+        | :-----: | :----: | :----: |
+        | 1 | 2016-12-29 12:00:00 | 205.47 |
+        | 2 | 2016-12-29 13:00:00 | 206.74 |
+        | 3 | 2016-12-29 14:00:00 | 206.77 |
+        | 4 | 2016-12-29 15:00:00 | 205.77 |
+        | 5 | 2016-12-29 16:00:00 | 201.93 |
+
 
 ### Step 2: config data loader
 - The config of the target building should be specified for the data loader. Specifically, a config dict for the target building should be added to the `get_data()` function under [`tsfm_public/models/tinytimemixer/utils/ttm_utils.py`](https://github.com/Dylan0211/Building-Time-series-Foundation-Model/blob/main/tsfm_public/models/tinytimemixer/utils/ttm_utils.py). An example is shown as follows. Here, "Genome" is the name of the config dict which contains variables to be specified:
