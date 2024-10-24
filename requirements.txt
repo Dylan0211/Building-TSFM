@@ -9,4 +9,3 @@ scikit_learn==1.2.2
 seaborn==0.13.2
 torch==2.3.0+cu118
 transformers==4.44.2
-~orch==2.1.0
